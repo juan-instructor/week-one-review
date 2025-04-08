@@ -81,7 +81,7 @@ Each Thursday you will have a `~15 minutes` presentations, which counts towards 
 > [!IMPORTANT]
 > Expect some questions from your audience about your code 😎
 
-### 👉🏼 Final Course Presentation Guidelines
+### 👉 Final Course Project Presentation Guidelines
 
 1. Introduction (1 minute)
 
