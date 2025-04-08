@@ -12,7 +12,7 @@ This week's objective is to:
 
 These are weekly activities to review old course content. This is the best way to identify any gaps in your knowledge, and **_MOST IMPORTANTLY_** ask during class in our **_one-on-one-sessions_** or in your **_breakout rooms_** with `TAs`.
 
-I have compiled list of previous projects that most students have not finished yet.
+I have compiled a list of previous projects that most students have not finished yet.
 
 > [!NOTE]
 > Choose at least **_ONE_**. The list is ordered from "simple" to more "complex", so choose the one you feel the most comfortable building but at the same time one that you think requires more practice. Lastly, the more you build, the better you get, so please build as many as possible while **_ASKING QUESTIONS IN CLASS_**.
