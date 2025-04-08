@@ -21,7 +21,7 @@ I have compiled list of previous projects that most students have not finished y
 2. Frontend Static work: [huddle](https://github.com/juan-instructor/huddle-react)
 
 > [!NOTE]
-> If you have finished and you are going to present one of them on Friday (presentation guideliens are described below), then make sure you have created multiple and **_reusable_** components.
+> If you have finished and you are going to present one of them on Thursday (presentation guideliens are described below), then make sure you have created multiple and **_reusable_** components.
 
 3. Frontend Interactive (state) work: [advice-generator](https://github.com/juan-instructor/api-advice-generator)
 4. Frontend Interactive (state) work: [rating-component](https://github.com/juan-instructor/easy-interactive-rating-component)
@@ -41,18 +41,18 @@ I have compiled list of previous projects that most students have not finished y
 
 11. Backend work (database setup and connection) [db-intro-setup](https://github.com/juan-instructor/basic-mongodb-setup)
 
-## Friday Presentations (2)
+## Thursday Presentations (2)
 
-Each Friday you will have a `~15 minutes` presentations, which counts towards your work during class. For your work to be marked as `completed`, it is **_MANDATORY_** to:
+Each Thursday you will have a `~15 minutes` presentations, which counts towards your work during class. For your work to be marked as `completed`, it is **_MANDATORY_** to:
 
 > [!IMPORTANT]
 > This presentation will help you get ready for the final one.
 
-1. On Friday provide the `GitHub` repo link in `#practice` channel of at least **_ONE_** project you have finished for the week (`in class project-activities`). If you have not fully completed it, then explain why and the challenges you faced in the same `slack` message. Doing this I can help you address those challenges in our next session.
+1. On Thursday provide the `GitHub` repo link in `#practice` channel of at least **_ONE_** project you have finished for the week (`in class project-activities`). If you have not fully completed it, then explain why and the challenges you faced in the same `slack` message. Doing this I can help you address those challenges in our next session.
 
-2. On Friday, present your `in-class project/activity` work in our `one-on-one-session`. **_Presentation guidelines_** will be given below.
+2. On Thursday, present your `in-class project/activity` work in our `one-on-one-session`. **_Presentation guidelines_** will be given below.
 
-3. On Friday, present your `final course project` (It does not have to be finished). This will help you get more comfortable for the final presentation. Additionally, I will provide feedback so you can implement it in next week's presentation.
+3. On Thursday, present your `final course project` (It does not have to be finished). This will help you get more comfortable for the final presentation. Additionally, I will provide feedback so you can implement it in next week's presentation.
 
 ## 📝 Presentations Guidelines - Friendly chat
 
